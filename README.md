@@ -7,4 +7,5 @@
 File names: 
 
 
-![Alt text](rhttps://github.com/TatevKaren/Deep-Learning-for-Data-Science/blob/main/ANN_Case_Study_Sample_Output.png?raw=true "Sample output of the trained ANN model")
+![Alt text](rhttps://github.com/TatevKaren/Deep-Learning-for-Data-Science/ANN_Case_Study_Sample_Output_1.png?raw=true "Sample output of the trained ANN model")
+![Alt text](rhttps://github.com/TatevKaren/Deep-Learning-for-Data-Science/ANN_Case_Study_Sample_Output_1.png?raw=true "Sample output of the trained ANN model")
