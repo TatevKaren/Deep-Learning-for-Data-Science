@@ -1,7 +1,7 @@
 # Deep Learning 
 
 
-[![Header](https://upload.wikimedia.org/wikipedia/commons/1/10/Blausen_0657_MultipolarNeuron.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face "Header")]()
+[![Header](https://www.stonebridge.uk.com/blog/wp-content/uploads/2019/10/neuron-animation-blog.gif&auto=format&ar=2:1&mode=crop&crop=face "Header")]()
 
 
 # Case Study: Bank's Customer Churn Rate Prediction 
