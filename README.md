@@ -9,7 +9,7 @@
 
 
 
-# Case Study: Bank's Customer Churn Rate Prediction 
+# 1: Case Study: Bank's Customer Churn Rate Prediction 
 File names: Artificial_Neural_Network_Case_Study.py, , ANN_Case_Study_Sample_Output_1.png, ANN_Case_Study_Sample_Output_2.png
 
 ## About 
